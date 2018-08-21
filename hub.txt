@@ -1,0 +1,6 @@
+hub FcgammaAlternateHaplotypes
+shortLabel Fcgamma Alt Hap
+longLabel Hub for liftover files of alternate haplotypes of chr1 from BACs spanning the Fcgamma receptor locus
+genomesFile genomes.txt
+email lkh@sfu.ca
+descriptionUrl AltHapHub.html 
