@@ -1,5 +1,5 @@
 hub AlternateHaplotypes
 shortLabel AltHaps
 longLabel Alternate haplotype chain files generated from ONT sequencing and nanopolish from Fcgamma locus BACs
-genomesFile genomes.txt
+genomesFile https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/genomes.txt
 email lkh@sfu.ca 
