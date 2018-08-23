@@ -1,5 +1,6 @@
 track RP11hap1Chain
 bigDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/RP11hap1.chr1.bigChain.bb
+linkDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/RP11hap1.chr1.bigChain.link.bb
 shortLabel RP11hap1 Chain
 longLabel RP11hap1 hg19 nanopolished with RP11-25K21 and -697E5
 type bigChain
@@ -7,12 +8,15 @@ type bigChain
 
 track RP11hap2
 bigDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/RP11hap2.chr1.bigChain.bb
+linkDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/RP11hap2.chr1.bigChain.link.bb
+
 shortLabel RP11hap2 Chain
 longLabel RP11hap2 hg19 nanopolished with RP11-925D6 and -474I16
 type bigChain
 
 track CTDhap1
 bigDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/CTDhap1.chr1.bigChain.bb
+linkDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/CTDhap1.chr1.bigChain.link.bb
 shortLabel CTDhap1 Chain
 longLabel CTDhap1 hg19 nanopolished with CTD-2001J24 -2514J12 and -2562L6
 type bigChain
