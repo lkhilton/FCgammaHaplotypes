@@ -1,6 +1,5 @@
-hub FcgammaAlternateHaplotypes
-shortLabel Fcgamma Alt Hap
-longLabel Hub for liftover files of alternate haplotypes of chr1 from BACs spanning the Fcgamma receptor locus
+hub AlternateHaplotypes
+shortLabel AltHaps
+longLabel Alternate haplotype chain files generated from ONT sequencing and nanopolish from Fcgamma locus BACs
 genomesFile genomes.txt
-email lkh@sfu.ca
-descriptionUrl AltHapHub.html 
+email lkh@sfu.ca 
