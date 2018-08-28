@@ -21,7 +21,7 @@ type bigChain
 
 track RP11hap1v2
 bigDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/RP11hap1.chr1.v2.bigChain.bb
-linkDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/RP11hap1.chr1.bigChain.v2.link.bb
+linkDataUrl https://raw.githubusercontent.com/lkhilton/FCgammaHaplotypes/master/hg19/RP11hap1.chr1.v2.bigChain.link.bb
 shortLabel RP11hap1 Chain v2
 longLabel RP11hap1v2 hg19 nanopolished with RP11-25K21 and -697E5
 type bigChain
